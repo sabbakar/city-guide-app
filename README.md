@@ -9,10 +9,13 @@ A Flutter-based mobile application to guide users through some of the best attra
 - **Activity Links**: Direct links to external websites for additional information or booking.
 - **Interactive Map**: Get directions and view location details for each destination.
 
-## Screenshots
+## Video
 
-![Home Screen](assets/screenshots/home_screen.png)
-_Your Home Screen here_
+[Video](https://drive.google.com/file/d/1Ea0JpqiqQjcwRWf7y7gkz5hEicktE1u6/view?usp=sharing)
+
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Ea0JpqiqQjcwRWf7y7gkz5hEicktE1u6/view?usp=sharing)
+
 
 ## Installation
 
