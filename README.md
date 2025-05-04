@@ -11,10 +11,7 @@ A Flutter-based mobile application to guide users through some of the best attra
 
 ## Video
 
-[Video](https://drive.google.com/file/d/1Ea0JpqiqQjcwRWf7y7gkz5hEicktE1u6/view?usp=sharing)
-
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Ea0JpqiqQjcwRWf7y7gkz5hEicktE1u6/view?usp=sharing)
+[Watch the video](https://drive.google.com/file/d/1Ea0JpqiqQjcwRWf7y7gkz5hEicktE1u6/view?usp=sharing)
 
 
 ## Installation
@@ -26,13 +23,19 @@ Follow these steps to get the app up and running locally:
 Make sure you have Flutter and Dart installed. If you don’t have them installed yet, follow the official instructions:
 
 - [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+- ## Firebase Setup Required
+
+This project uses Firebase Authentication.  
+You must connect your own Firebase project and add the `google-services.json` file in `android/app/`.  
+Without it, authentication features (sign in/up) will not work.
+
 
 ### Steps to Install
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/sabbakar/city-guide-app.git
-````
+   ```
 
 2. Navigate into the project directory:
 
@@ -56,9 +59,6 @@ Make sure you have Flutter and Dart installed. If you don’t have them installe
 
 Contributions are always welcome! If you want to contribute, feel free to fork the repo, create a branch, and make your changes. Then, submit a pull request for review.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
